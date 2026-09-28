@@ -95,5 +95,4 @@ These apply to every tab.
 
 - `app.R`: the complete dashboard (data prep, UI, server)
 - `README.md`: this file
-- `docs/`: screenshots used in this README
 - `.gitignore`: ignores R session files
