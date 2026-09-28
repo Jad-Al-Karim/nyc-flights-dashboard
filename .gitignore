@@ -1,0 +1,21 @@
+# R session files
+.Rhistory
+.RData
+.Rapp.history
+.Ruserdata
+*.Rproj.user/
+.Rproj.user/
+
+# RStudio project settings (remove this line if you want to commit the .Rproj file)
+*.Rproj
+
+# Shiny / rsconnect deployment metadata
+rsconnect/
+
+# Package library folders
+renv/library/
+packrat/lib*/
+
+# OS files
+.DS_Store
+Thumbs.db
