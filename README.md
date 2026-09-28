@@ -2,9 +2,9 @@
 
 An interactive dashboard for exploring every flight that left New York City in 2013 (JFK, LGA, EWR), built on the `nycflights13` package. It covers when flights run late, which airlines and routes are worst, when flights are cancelled, and how weather and distance relate to delays.
 
-![Dashboard overview]("C:\Users\NTC\Documents\R projects\nyc-flights-dashboard\overview.png")
+![Dashboard overview](overview.png)
 
-![Worst days trend](docs/worst-days.png)
+![Worst days trend](worst-days.png)
 
 ## Quick start
 
